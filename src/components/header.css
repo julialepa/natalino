@@ -1,0 +1,37 @@
+nav {
+    background-color: #563d7c;
+    padding: 00px 0px 17px 10px;
+    text-align: left;
+    margin-bottom: 20px
+}
+
+.bar-left > a{
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+a {
+    color: #cbbde2;
+    text-decoration: none
+}
+
+a :active{
+    color: #cbbde2
+
+}
+
+a:hover{
+    color: #ffffff ;
+    font-weight: 700;
+}
+
+a:focus{
+    color: #cbbde2 
+}
+
+.span-logo{
+    font-size: 45px;
+    color: wheat;
+    margin-right: 10px;
+}
